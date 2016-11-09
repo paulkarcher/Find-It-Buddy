@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1480f582d5c2aaf96c09af5681d5b382bffde6a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ed350d316d23d426b4f7a12b7d086ac084442437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_88b83d9b56079b207b157069d4b9df9af3f49203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8e059ad6a8b1c9184c57bc1a66a70a87b0ec4788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ffbcb2cc2a301b78b644d991d2aa3475ffd505d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_54ac8470131847144ae1853aa92d546d365a1600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a135612e9fd04a410758a0035bd30dcb6846a5b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_527fe2cca49f6db0739bb3c28fc457c7bcfc3c1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93e9aef1b0201ad020839475f09fc7403dfca60c">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3aa40afd668410f8c3d1c257142c28bfced4f565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_7e0a23920c1317af0da74bfacb1f0782df15d984/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_357743991be560c54be455669d02fac3187a0c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6f8e58d1f564829cb0ac5656122340e51b392094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ae1350d5872f1053fa9ec32dc6a51e1330549af">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a06e56855da6a4b69faefc2329f362b6607fe3ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_1469ea99eca01e78c8397f4d32debd74e2a4df00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_9bc3222b0cdd986563140382a28c8aaa5cd0a983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_66e2a91af6451439bb10d70ed7a2a904aab4c306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/ronald/Desktop/github/FindItBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2bdee1e74e0bf7ee08882bb5da9087697e572d43/classes.dex" />
+    </item>
+
+</items>
