@@ -10,10 +10,4 @@
         android:id="@+id/about"
         android:title="about" />
 
-    <item
-        android:icon="@drawable/ic_back"
-        android:title=""
-        app:showAsAction="always" />
-
-
 </menu>
