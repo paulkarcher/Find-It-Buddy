@@ -12,4 +12,16 @@
     <string name="ocr_success">Text read successfully</string>
     <string name="ocr_failure">No text captured</string>
     <string name="ocr_error">"Error reading text: %1$s"</string>
+
+    <string name="app_name">FindItBuddy!?</string>
+
+    <!-- Label for the word's definition if the definition is unknown [CHAR LIMIT=20] -->
+    <string name="unknown_definition">Definition not found</string>
+
+
+    <!-- Label for the word's definition if the definition is unknown [CHAR LIMIT=20] -->
+    <string name="empty_view_title_text">There are no words currently in your search history.</string>
+
+    <!-- Subtitle text for the empty view [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">New words from your history will appear here.</string>
 </resources>

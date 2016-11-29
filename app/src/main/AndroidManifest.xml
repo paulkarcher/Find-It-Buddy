@@ -14,7 +14,7 @@
         android:allowBackup="true"
         android:fullBackupContent="false"
         android:hardwareAccelerated="true"
-        android:icon="@drawable/icon"
+        android:icon="@mipmap/ic_launcher"
         android:label="FinditBuddy"
         android:supportsRtl = "true"
          >
@@ -29,6 +29,7 @@
             android:label="Search For: ">
 
         </activity>
+
         <activity android:name="coldashes.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,7 +43,7 @@
         </activity>
 
         <activity
-            android:name="coldashes.historyActivity">
+            android:name="coldashes.HistoryActivity">
         </activity>
 
         <activity

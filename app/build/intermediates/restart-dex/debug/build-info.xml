@@ -2,12 +2,12 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="560dpi"
+    density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="568288976125145"
-    token="-3208650836695158310"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="3386401987891"
+    token="-38661609199244300"
+    verifier="MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
@@ -23,14 +23,14 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\Coldashes\Desktop\FinditBuddy\app\build\outputs\apk\app-debug.apk"
+        location="/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="568288976125145"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="3386401987891"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
-            location="C:\Users\Coldashes\Desktop\FinditBuddy\app\build\outputs\apk\app-debug.apk"
+            location="/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

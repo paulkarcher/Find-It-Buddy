@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_upload.png",
-        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-mdpi\\ic_upload.png"
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_appicon.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-mdpi/ic_appicon.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_upload.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-mdpi/ic_upload.png"
     }
 ]

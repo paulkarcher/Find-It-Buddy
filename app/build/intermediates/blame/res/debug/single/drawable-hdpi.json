@@ -1,26 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
-        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_upload.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-hdpi/ic_upload.png"
     },
     {
-        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_upload.png",
-        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_upload.png"
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_placeholder.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-hdpi/ic_placeholder.png"
     },
     {
-        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_back.png",
-        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_done.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-hdpi/ic_done.png"
     },
     {
-        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add.png",
-        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_back.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-hdpi/ic_back.png"
     },
     {
-        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_placeholder.png",
-        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_placeholder.png"
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_appicon.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-hdpi/ic_appicon.png"
     },
     {
-        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_done.png",
-        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_done.png"
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_add.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/paul/AndroidStudioProjects/fint-it-buddy/app/src/main/res/drawable-hdpi/icon.png"
     }
 ]
