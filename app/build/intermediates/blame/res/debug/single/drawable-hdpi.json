@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_upload.png",
+        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_back.png",
+        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add.png",
+        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_placeholder.png",
+        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_done.png",
+        "source": "C:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\src\\main\\res\\drawable-hdpi\\ic_done.png"
+    }
+]

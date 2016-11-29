@@ -1,0 +1,7 @@
+#Tue Nov 29 09:54:31 EST 2016
+base.0=C\:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c8699a67769440b5e56c21075bf4c7f21dbd1b82
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_782b258d7d0b3857488042c1be5ade9b8fbe77dd\\classes.dex
+base.1=C\:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_782b258d7d0b3857488042c1be5ade9b8fbe77dd
+file.0=C\:\\Users\\Coldashes\\Desktop\\FinditBuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c8699a67769440b5e56c21075bf4c7f21dbd1b82\\classes.dex
