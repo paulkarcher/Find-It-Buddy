@@ -3,7 +3,7 @@
 Progress Report #2, 11/27
 
 Paul:  
-Fixed database components, added HistoryActivity functionality and UI, refactoring  
+Fixed database components, added HistoryActivity functionality and UI, refactoring.  
 Integrated all team members' changes, runs without error.   
 WordCursorAdapter.java WordContract.java  
 WordDBHelper.java  WordProvider.java  
