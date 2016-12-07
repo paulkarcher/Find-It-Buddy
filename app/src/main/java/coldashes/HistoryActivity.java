@@ -20,7 +20,7 @@ import coldashes.data.WordContract.WordEntry;
 
 public class HistoryActivity extends AppCompatActivity implements
         LoaderManager.LoaderCallbacks<Cursor> {
-
+    Word newWord;
     /** Identifier for the word data loader */
     private static final int WORD_LOADER = 0;
 
@@ -32,6 +32,11 @@ public class HistoryActivity extends AppCompatActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_history);
 
+
+        if(getIntent().getParcelableExtra("Word") != null){
+            newWord = (Word) getIntent().getParcelableExtra("Word");
+            Log.v("historyactivity ", newWord.getWord());
+        }
         //getLoaderManager().initLoader(WORD_LOADER, null, this);
     }
 
@@ -85,5 +90,18 @@ public class HistoryActivity extends AppCompatActivity implements
     public void onLoaderReset(Loader<Cursor> loader) {
         // Callback called when the data needs to be deleted
         mCursorAdapter.swapCursor(null);
+    }
+
+    @Override
+    public void onResume(){
+        super.onResume();
+
+        // When the activity is resumed it will get the word if there is one
+        if(getIntent().getParcelableExtra("Word") != null){
+            newWord = (Word) getIntent().getParcelableExtra("Word");
+            // Need to add this word to the database
+            // then create the
+            Log.v("historyactivity ", newWord.getWord());
+        }
     }
 }

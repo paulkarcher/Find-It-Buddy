@@ -1,7 +1,7 @@
-#Tue Nov 29 13:52:16 EST 2016
-base.0=/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_470045dc1c0d818430b0f07891a22c1b250fee04
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_30498ff14c67f8ba963f62779304d9af6018439e/classes.dex
-base.1=/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_30498ff14c67f8ba963f62779304d9af6018439e
-file.0=/home/paul/AndroidStudioProjects/fint-it-buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_470045dc1c0d818430b0f07891a22c1b250fee04/classes.dex
+#Tue Dec 06 23:45:31 EST 2016
+base.0=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_884a38100a1e049f90ed591e4b05c3fa1fa4b864
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51732157a08a90106232363f9b085d9ccca15e15\\classes.dex
+base.1=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51732157a08a90106232363f9b085d9ccca15e15
+file.0=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_884a38100a1e049f90ed591e4b05c3fa1fa4b864\\classes.dex

@@ -28,7 +28,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:hint="Page number/link/etc"
-            android:inputType="text" />
+            android:inputType="text"
+            android:id="@+id/source_tv" />
 
     </LinearLayout>
 
@@ -48,7 +49,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint=" why searched for it..."
-        android:inputType="text" />
+        android:inputType="text"
+        android:id="@+id/descr_tv" />
     </LinearLayout>
 
         <LinearLayout
@@ -66,7 +68,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="optional definition for vocab"
-        android:inputType="text" />
+        android:inputType="text"
+        android:id="@+id/def_tv" />
         </LinearLayout>
 
     <Button
