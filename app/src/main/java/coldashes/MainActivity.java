@@ -15,7 +15,8 @@ import android.view.View;
 import android.widget.Button;
 
 import com.google.android.gms.samples.vision.ocrreader.R;
-import com.google.android.gms.samples.vision.ocrreader.ocr.OcrCaptureActivity;
+
+import coldashes.ocr.OcrCaptureActivity;
 
 public class MainActivity extends AppCompatActivity {
 

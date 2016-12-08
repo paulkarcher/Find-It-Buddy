@@ -5,33 +5,47 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="323742116872776"
-    token="-2994692315462318938"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="10775394190186"
+    token="2556427894794604181"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="238" />
+        duration="324" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="1228" />
     <task
         name="instant-run-transform"
-        duration="48" />
+        duration="16" />
     <task
         name="verifier"
-        duration="3" />
+        duration="1" />
 
     <artifact
-        location="C:\Users\Coldashes\Desktop\github\final\Find-It-Buddy\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="323742116872776"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="10314081990138"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
-            location="C:\Users\Coldashes\Desktop\github\final\Find-It-Buddy\app\build\outputs\apk\app-debug.apk"
+            location="/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="10442831682473"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/intermediates/builds/debug/10442831682473/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="10775394190186"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

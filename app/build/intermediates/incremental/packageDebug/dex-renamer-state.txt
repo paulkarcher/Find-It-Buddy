@@ -1,7 +1,7 @@
-#Tue Dec 06 23:45:31 EST 2016
-base.0=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_884a38100a1e049f90ed591e4b05c3fa1fa4b864
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51732157a08a90106232363f9b085d9ccca15e15\\classes.dex
-base.1=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51732157a08a90106232363f9b085d9ccca15e15
-file.0=C\:\\Users\\Coldashes\\Desktop\\github\\final\\Find-It-Buddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_884a38100a1e049f90ed591e4b05c3fa1fa4b864\\classes.dex
+#Thu Dec 08 13:59:12 EST 2016
+base.0=/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b98e1d7a57800c17d9979d02dbfa8072dc82557
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68c2cda278737756565f6ef6ff9d8978940c9162/classes.dex
+base.1=/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68c2cda278737756565f6ef6ff9d8978940c9162
+file.0=/home/ronald/Desktop/github/lasttime/Find-It-Buddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b98e1d7a57800c17d9979d02dbfa8072dc82557/classes.dex

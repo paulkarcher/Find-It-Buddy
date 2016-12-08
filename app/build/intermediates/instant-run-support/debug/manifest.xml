@@ -30,7 +30,7 @@
             android:value="ocr" />
 
         <activity
-            android:name="com.google.android.gms.samples.vision.ocrreader.ocr.OcrCaptureActivity"
+            android:name="coldashes.ocr.OcrCaptureActivity"
             android:label="Search For: " >
         </activity>
         <activity android:name="coldashes.MainActivity" >
