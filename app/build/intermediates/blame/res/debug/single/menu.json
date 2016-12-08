@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/menu/settings.xml",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/menu/settings.xml"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/menu/find_menu.xml",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/menu/find_menu.xml"
+    }
+]

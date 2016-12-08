@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_upload.png",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/drawable-hdpi/ic_upload.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_done.png",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/drawable-hdpi/ic_done.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_back.png",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/drawable-hdpi/ic_back.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_placeholder.png",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/drawable-hdpi/ic_placeholder.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_appicon.png",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/drawable-hdpi/ic_appicon.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_add.png",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

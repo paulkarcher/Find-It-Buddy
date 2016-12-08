@@ -1,0 +1,7 @@
+#Thu Dec 08 16:02:59 EST 2016
+base.0=/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8f483bed7e1ae550f21d25d03b60cabb3b169638
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3229146eae73bb5ca9863e3c15f31d1f2a2daf9a/classes.dex
+base.1=/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3229146eae73bb5ca9863e3c15f31d1f2a2daf9a
+file.0=/home/paul/AndroidStudioProjects/Find-It-Buddy-progress-3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8f483bed7e1ae550f21d25d03b60cabb3b169638/classes.dex
