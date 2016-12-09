@@ -39,8 +39,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="coldashes.aboutActivity" >
-        </activity>
         <activity android:name="coldashes.HistoryActivity" >
         </activity>
         <activity android:name="coldashes.findActivity" >

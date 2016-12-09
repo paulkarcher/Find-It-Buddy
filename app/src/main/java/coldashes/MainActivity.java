@@ -77,12 +77,10 @@ public class MainActivity extends AppCompatActivity {
         // Handle item selection
         switch (item.getItemId()) {
             case R.id.settings:
-                Intent settingsIntent = new Intent(this, settingsActivity.class);
-                startActivity(settingsIntent);
                 return true;
             case R.id.about:
-                Intent aboutIntent = new Intent(this, aboutActivity.class);
-                startActivity(aboutIntent);
+
+
                 return true;
             default:
                 return super.onOptionsItemSelected(item);

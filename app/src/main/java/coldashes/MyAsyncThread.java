@@ -1,14 +1,7 @@
 package coldashes;
 
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.util.Log;
-import android.widget.TextView;
-
-import com.google.android.gms.samples.vision.ocrreader.R;
-
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -17,9 +10,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 import coldashes.data.DataHolder;
-
-import static android.R.attr.key;
-import static android.R.id.message;
 
 /**
  * Created by ronald on 12/8/16.
