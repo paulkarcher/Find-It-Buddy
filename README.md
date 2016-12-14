@@ -9,3 +9,6 @@ works in HistoryActivity.
 
 Will be final as of midnight.
 https://docs.google.com/document/d/1XolIWovWAyhYmSDIxnh63yr6IIUYMmrPWUjbahEhwMw/edit?usp=sharing
+
+
+Video Demo: https://www.youtube.com/watch?v=uIWU2Kr3sT8
