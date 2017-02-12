@@ -1,5 +1,11 @@
 # Find-It-Buddy  
 
+
+This is not the final release, please see: https://github.com/uml-app1-2016/Find-It-Buddy/tree/final
+
+
+
+
 Progress Report #4, 12/08
 
 Paul Karcher:  
