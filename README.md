@@ -1,9 +1,11 @@
 # Find-It-Buddy  
 
+This is the final release, ahead of master.
+
 Progress Report #4, 12/08
 
 Paul Karcher:  
-Switched database components/structure/design in favor of something more efficient and integrateable. Integrated,
+Switched database components/structure/design in favor of something more efficient and integrable. Integrated,
 works in HistoryActivity.
 
 
